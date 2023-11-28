@@ -17,7 +17,7 @@ A word meaning chrome extension
  ## To run the repository on the system:
    1. Clone the repository and head to the base folder by running the following command in your CMD/bash/terminal: 
    ```
-      git clone https://github.com/tiwarishubham635/meaningo.git
+      git clone https://github.com/pallavimshr/meaningo.git
       cd meaningo
    ```
    2. Install node_modules in the base folder by running:
